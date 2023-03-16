@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 70px;
+    background-color: #f5cd48;
+    justify-content: space-around;
+  }
+  
+  .footer ul {
+    list-style: none;
+    display: flex;
+    position: absolute;
+    right: 130px;
+    justify-content: space-around;
+  }
+  
+  .footer li {
+    padding: 10px;
+    margin: 0px 20px;
+  }
+  
+  .footer h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    width: 80%;
+    font-weight: bold;
+    margin: 0 auto;
+    justify-content: flex-start;
+  }
+  
