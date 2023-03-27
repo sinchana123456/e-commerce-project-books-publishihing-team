@@ -1,0 +1,29 @@
+.bookstore-submenu {
+    width: 10rem;
+    position: absolute;
+    top: 67px;
+    list-style: none;
+    text-align: start;
+  }
+  
+  .bookstore-submenu li {
+    background: rgb(46, 53, 53);
+    cursor: pointer;
+  }
+  
+  .bookstore-submenu li a:hover {
+    background: rgb(46, 53, 53);
+  }
+  
+  .bookstore-submenu.clicked {
+    display: none;
+  }
+  
+  .submenu-item {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: rgb(110, 11, 11);
+    padding: 16px;
+  }
