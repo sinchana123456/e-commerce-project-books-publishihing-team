@@ -9,7 +9,7 @@ const Footer = () => {
     <h1>Codex International Publishers</h1>
     <ul>
         <li>
-          <NavLink to="https://www.youtube.com">
+          <NavLink to="https://www.youtube.com/@codexinternationalpublishers">
             <BsYoutube color='red' size="35px"/>
           </NavLink>
         </li>

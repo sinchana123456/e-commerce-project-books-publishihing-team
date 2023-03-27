@@ -3,7 +3,7 @@
     width: 100%;
     text-align: start;
     padding-bottom: 70px;
-    background-color: #f5cd48;
+    background-color: whitesmoke;
     justify-content: space-around;
   }
   
@@ -21,7 +21,7 @@
   }
   
   .footer h1 {
-    color: white;
+    color: black;
     font-family: sans-serif;
     font-size: 25px;
     width: 80%;
